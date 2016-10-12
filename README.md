@@ -1,2 +1,2 @@
-# tower-defense
-A Tower Defense implementation in C (2012)
+# Tower Defense in C (2012)
+A Tower Defense implementation in C made with @Thamasky. Some of the code was already provided by the teaching staff. The report (in Dutch) can be found in `verslag.pdf` and the assignment files can be found in the `opgave` folder.
